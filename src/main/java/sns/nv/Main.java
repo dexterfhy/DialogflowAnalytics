@@ -23,7 +23,7 @@ public class Main {
             //return
         }
 
-        //CommandLine cmd = parseCommandLineArgs(args);
+        ////CommandLine cmd = parseCommandLineArgs(args);
 
         String baseFilePath = "/Users/dexter.fong/sns/app/dialogflowagent/intents"; //cmd.getOptionValue(CmdArg.DIRECTORY.getLongOpt());
         boolean includeFallback = true; //cmd.hasOption(CmdArg.INCLUDE_FALLBACK.getLongOpt());
